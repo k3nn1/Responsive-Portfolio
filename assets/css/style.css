@@ -1,0 +1,133 @@
+body {
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: gray; */
+    /* width: 960px; */
+
+}
+
+header {
+    font-weight: bold;
+    text-align: center;
+    background-color: #4aaaa5;
+    width: 250px;
+    margin: 5px;
+    border-color: #ffffff;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    position: absolute;
+        left: 50px;
+        top: 2px;
+    
+}
+
+nav {
+    float: right;
+    width: 50%;
+    /* text-align: center; */
+    /* padding: 20px; */
+    /* margin: 5px; */
+    /* position: relative; */
+        /* right: 50px; */
+}
+
+.button {
+    background-color: #e7e7e7;
+    color: #949292;
+    text-decoration: none;
+    float: right;
+    width: 10%;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    position: relative;
+        right: 50px;
+
+}
+a:hover {
+    background-color: gray;
+}
+
+.container1 {
+    background-color: #e9e9e9;
+    width: 550px;
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    position: relative;
+    height: 75%;
+    overflow: hidden;
+}
+.box1 {
+    color: #4aaaa5;
+    font-weight: bold;
+    background-color: #e9e9e9;
+    padding: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 2px;
+    margin-bottom: 10px;
+    font-size: 150%
+}
+
+.intro {
+    text-align: center;
+    font-size: 180%;
+    padding: 10px;
+    color: #666666;
+    font-weight: bold;
+    font-family: "Brush Script MT", cursive;
+}
+.box2 {
+    background-color:lightgray;
+    width: 300;
+    padding: 10p;
+    margin: 10px;
+    float: left;
+}
+
+.box2-1 {
+    width: 150px;
+    padding: 2px;
+}
+
+.container2 {
+    color: #4aaaa5;
+    font-size: 100%;
+    background-color: #e9e9e9;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin: 10px;
+    width: 250px;
+    float: right;
+    position: relative;
+        right: 75px;
+        top: 10px;
+}
+
+.box3 {
+    padding: 20px;
+    margin: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 2px;
+}
+
+footer {
+    background-color: #666666;
+    text-align: center;
+    clear: both;
+    display: block;   
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    border-top-color: #4aaaa5;
+    border-style: solid;
+    border-top-width: 3px;
+    
+}
+
