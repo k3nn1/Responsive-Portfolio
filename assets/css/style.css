@@ -58,7 +58,7 @@ a:hover {
     float: left;
     position: relative;
     height: 75%;
-    overflow: hidden;
+    overflow: auto;
 }
 .box1 {
     color: #4aaaa5;
