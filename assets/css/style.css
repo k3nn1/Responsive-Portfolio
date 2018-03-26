@@ -121,7 +121,7 @@ footer {
     text-align: center;
     clear: both;
     display: block;   
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     padding: 20px;
